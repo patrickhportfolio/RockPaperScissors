@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48a9aedd9b8cbd24c8c23831dd3d19e8, type: 3}
+  m_Name: WaterElementSO
+  m_EditorClassIdentifier: 
+  Name: Water
+  StartMaterial: {fileID: 2100000, guid: bfd3f95f0e353704cb54eb9cc488bb3c, type: 2}
+  FocusedMaterial: {fileID: 2100000, guid: d99bfd40174f2f2438ffb874a5ebe7db, type: 2}
